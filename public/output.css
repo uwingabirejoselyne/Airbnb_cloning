@@ -509,14 +509,14 @@ video {
 .h-7 {
   height: 1.75rem;
 }
+.w-1\/4 {
+  width: 25%;
+}
 .w-2 {
   width: 0.5rem;
 }
 .w-7 {
   width: 1.75rem;
-}
-.w-1\/4 {
-  width: 25%;
 }
 .items-center {
   align-items: center;
@@ -529,9 +529,6 @@ video {
 }
 .rounded-full {
   border-radius: 9999px;
-}
-.rounded-md {
-  border-radius: 0.375rem;
 }
 .rounded-xl {
   border-radius: 0.75rem;
